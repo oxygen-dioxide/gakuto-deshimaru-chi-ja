@@ -1,0 +1,3 @@
+name=学人デシマル χ 1.1
+author=UtaUtaUtau
+image=deshimaru.bmp
